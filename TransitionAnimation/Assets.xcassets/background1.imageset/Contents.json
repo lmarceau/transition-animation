@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "city_skyline_left.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
